@@ -1,0 +1,10 @@
+name: GhostKits
+version: '${project.version}'
+main: me.ghostdevelopment.ghostkit.GhostKit
+author: GhostAndry
+softdepend:
+  - PlaceholderAPI
+
+permissions:
+  ghostkits.*:
+    default: op
