@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="483d35e8-1b7f-4d64-9909-fc4a82af2646" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GhostKit.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/ghostdevelopment/ghostkit/Commands/GhostCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/ghostdevelopment/ghostkit/Files/LangFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/ghostdevelopment/ghostkit/GhostKit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/ghostdevelopment/ghostkit/Utils/Language.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/ghostdevelopment/ghostkit/Utils/Translator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
-    </list>
+    <list default="true" id="483d35e8-1b7f-4d64-9909-fc4a82af2646" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -133,7 +117,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710332465085</updated>
-      <workItem from="1710332466819" duration="2168000" />
+      <workItem from="1710332466819" duration="2817000" />
     </task>
     <servers />
   </component>

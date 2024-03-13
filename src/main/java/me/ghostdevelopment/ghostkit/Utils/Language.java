@@ -5,7 +5,7 @@ import me.ghostdevelopment.ghostkit.Files.LangFile;
 public enum Language {
 
     PREFIX("prefix"),
-
+    NOPERMS("no-perms")
     ;
 
     String message_path;

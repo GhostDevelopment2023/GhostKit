@@ -2,15 +2,15 @@ package me.ghostdevelopment.ghostkit.Commands;
 
 import lombok.Getter;
 import lombok.Setter;
+import me.ghostdevelopment.ghostkit.Utils.Language;
 import me.ghostdevelopment.ghostkit.Utils.Translator;
-import org.bukkit.Bukkit;
+import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 import org.bukkit.command.TabCompleter;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Objects;
 
 @Getter @Setter
 public abstract class GhostCommand extends Translator implements CommandExecutor, TabCompleter {
@@ -79,7 +79,7 @@ public abstract class GhostCommand extends Translator implements CommandExecutor
     }
 
     @Override
-    public boolean onCommand(CommandSender sender, org.bukkit.command.Command command, String label, String[] args) {
+    public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
 
         if (getPermission1() != null) {
             if (!(sender.hasPermission(getPermission1())
@@ -88,8 +88,8 @@ public abstract class GhostCommand extends Translator implements CommandExecutor
                     || sender.hasPermission("ghostkits.*")
                     || sender.hasPermission("*")
             )) {
-                sender.sendMessage(translate(LangFile.getFile().getString("no-permissions")
-                        .replaceAll("%prefix%", LangFile.getFile().getString("prefix"))
+                sender.sendMessage(translate(Language.NOPERMS.toString()
+                        .replaceAll("%prefix%", Language.PREFIX.toString())
                 ));
                 return false;
             }
