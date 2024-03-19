@@ -5,6 +5,14 @@ author: GhostAndry
 softdepend:
   - PlaceholderAPI
 
+commands:
+  ghostkits:
+    aliases:
+      - gkits
+      - gkit
+      - kits
+      - kit
+
 permissions:
   ghostkits.*:
     default: op

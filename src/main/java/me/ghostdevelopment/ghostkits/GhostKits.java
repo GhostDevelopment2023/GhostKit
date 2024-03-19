@@ -27,7 +27,7 @@ public final class GhostKits extends JavaPlugin {
                 "| |__| | | | | (_) \\__ \\ |_| . \\| | |_\\__ \\\n" +
                 " \\_____|_| |_|\\___/|___/\\__|_|\\_\\_|\\__|___/\n\n" +
                 "GhostKits by GhostAndry\n");
-        
+
         setInstance(this);
         registerCommands();
 
