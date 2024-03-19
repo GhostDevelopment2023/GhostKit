@@ -1,6 +1,6 @@
-package me.ghostdevelopment.ghostkit.Utils;
+package me.ghostdevelopment.ghostkits.Utils;
 
-import me.ghostdevelopment.ghostkit.Files.LangFile;
+import me.ghostdevelopment.ghostkits.Files.LangFile;
 
 public enum Language {
 

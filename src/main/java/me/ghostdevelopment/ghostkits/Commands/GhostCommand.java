@@ -1,9 +1,9 @@
-package me.ghostdevelopment.ghostkit.Commands;
+package me.ghostdevelopment.ghostkits.Commands;
 
 import lombok.Getter;
 import lombok.Setter;
-import me.ghostdevelopment.ghostkit.Utils.Language;
-import me.ghostdevelopment.ghostkit.Utils.Translator;
+import me.ghostdevelopment.ghostkits.Utils.Language;
+import me.ghostdevelopment.ghostkits.Utils.Translator;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;

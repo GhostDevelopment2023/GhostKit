@@ -1,4 +1,4 @@
-package me.ghostdevelopment.ghostkit.Files;
+package me.ghostdevelopment.ghostkits.Files;
 
 import org.bukkit.Bukkit;
 import org.bukkit.configuration.file.FileConfiguration;

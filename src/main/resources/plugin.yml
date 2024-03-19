@@ -1,6 +1,6 @@
 name: GhostKits
 version: '${project.version}'
-main: me.ghostdevelopment.ghostkit.GhostKit
+main: me.ghostdevelopment.ghostkits.GhostKit
 author: GhostAndry
 softdepend:
   - PlaceholderAPI

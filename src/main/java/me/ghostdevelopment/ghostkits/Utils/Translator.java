@@ -1,4 +1,4 @@
-package me.ghostdevelopment.ghostkit.Utils;
+package me.ghostdevelopment.ghostkits.Utils;
 
 import org.bukkit.ChatColor;
 
