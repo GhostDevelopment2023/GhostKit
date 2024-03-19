@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="483d35e8-1b7f-4d64-9909-fc4a82af2646" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/ghostdevelopment/ghostkit/Commands/GhostCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/ghostdevelopment/ghostkits/Commands/GhostCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/ghostdevelopment/ghostkit/Files/LangFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/ghostdevelopment/ghostkits/Files/LangFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/ghostdevelopment/ghostkit/GhostKit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/ghostdevelopment/ghostkits/GhostKits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/ghostdevelopment/ghostkit/Utils/Language.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/ghostdevelopment/ghostkits/Utils/Language.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/ghostdevelopment/ghostkit/Utils/Translator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/ghostdevelopment/ghostkits/Utils/Translator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ghostdevelopment/ghostkits/GhostKits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/ghostdevelopment/ghostkits/GhostKits.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +121,7 @@
       <option name="presentableId" value="Default" />
       <updated>1710332465085</updated>
       <workItem from="1710332466819" duration="3657000" />
-      <workItem from="1710849604222" duration="337000" />
+      <workItem from="1710849604222" duration="710000" />
     </task>
     <servers />
   </component>
